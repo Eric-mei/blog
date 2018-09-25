@@ -1,15 +1,13 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2018-09-25 15:32:49 +1200
+date:   2018-09-26 15:32:49 +1200
 categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F1365598%2Fcollections%2FXYC47ZTD%2Fitems%3Fkey%3DXPeILBDiY6SJLW90nV0aqGVs%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
 
-<?php $contents = file_get_contents("https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F1365598%2Fcollections%2FXYC47ZTD%2Fitems%3Fkey%3DXPeILBDiY6SJLW90nV0aqGVs%26format%3Dbibtex%26limit%3D100"); print_r($contents); ?>
 
-<iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F1365598%2Fcollections%2FXYC47ZTD%2Fitems%3Fkey%3DXPeILBDiY6SJLW90nV0aqGVs%26format%3Dbibtex%26limit%3D100"></iframe>
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
