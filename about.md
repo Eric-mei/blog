@@ -8,7 +8,9 @@ permalink: /about/
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9185-7509" href="https://orcid.org/0000-0001-9185-7509" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-9185-7509</a></div>
 
-I currently mainly work as a project assistant in the [Digital Learning Team (DLT)](http://www.education.auckland.ac.nz/en/about/teaching-learning/create.html) at the Faculty of Education and Social Work, the University of Auckland.
+I currently mainly work as a project assistant in the [Digital Learning Team (DLT)](http://www.education.auckland.ac.nz/en/about/teaching-learning/create.html) at the Faculty of Education and Social Work, the University of Auckland.<img src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=https%3A%2F%2Fexample.com%2Fimages%2Favatar.jpg" />
+
+
 
 As a project assistant, With an overall aim to improve university teachers' pedagogical use of ICT, my daily job involves the following aspects:
 
