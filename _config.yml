@@ -24,7 +24,7 @@ github_username:  Eric-mei
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+theme: Minima
 plugins:
   - jekyll-feed
 
