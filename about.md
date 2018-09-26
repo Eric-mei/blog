@@ -23,9 +23,9 @@ With an overall aim to improve university teachers' pedagogical use of ICT, my d
 
 ## Contact Details
 
-  ![Office](building.png): R201, Faculty of Education and Social Work, 74 Epsom Avenue, Epsom, Auckland  
-  ![Cellular](phone.png): 022-194-6686  
-  ![Email](mail.png): bmei560@aucklanduni.ac.nz  
+  ![Office💼]: R201, Faculty of Education and Social Work, 74 Epsom Avenue, Epsom, Auckland  
+  ![Cellular📱]: 022-194-6686  
+  ![Email✉️]: bmei560@aucklanduni.ac.nz  
 
 
 ## Education
