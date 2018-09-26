@@ -7,9 +7,9 @@ permalink: /about/
 # Bing Mei
 
 
-I am currently as a project assistant in the [Digital Learning Team (DLT)](http://www.education.auckland.ac.nz/en/about/teaching-learning/create.html) at the Faculty of Education and Social Work, the University of Auckland.
+I currently mainly work as a project assistant in the [Digital Learning Team (DLT)](http://www.education.auckland.ac.nz/en/about/teaching-learning/create.html) at the Faculty of Education and Social Work, the University of Auckland.
 
-With an overall aim to improve university teachers' pedagogical use of ICT, my daily job involves the following aspects:
+As a project assistant, With an overall aim to improve university teachers' pedagogical use of ICT, my daily job involves the following aspects:
 
 1) Collaborate with learning designers for designated projects and provide advice;
 
@@ -20,12 +20,13 @@ With an overall aim to improve university teachers' pedagogical use of ICT, my d
 
 4) Deliver project-related professional development support to meet pre-set objectives (e.g., preparation of easy-to-follow training material and organisation of workshops to train teachers how to use the new learning management system--Canvas).
 
+I am also a research affiliate of the quantitative data analysis and research unit, Faculty of Education and Social Work, University of Auckland. My research interests include educational technology, technology-enhanced language learning, technology acceptance, and teacher education. My current research project focuses on the potential use of AR/VR in the educational context.
 
 ## Contact Details
 
-  ![Office💼]: R201, Faculty of Education and Social Work, 74 Epsom Avenue, Epsom, Auckland  
-  ![Cellular📱]: 022-194-6686  
-  ![Email✉️]: bmei560@aucklanduni.ac.nz  
+  Office 💼: R201, Faculty of Education and Social Work, 74 Epsom Avenue, Epsom, Auckland  
+  Cellular 📱: 022-194-6686  
+  E-mail ✉️]: bmei560@aucklanduni.ac.nz  
 
 
 ## Education
@@ -49,19 +50,19 @@ _Kia Eke Panuku: Building on Success, The University of Auckland_
 `09/2015--12/2015`
 _Faculty of Education and Social Work, The University of Auckland_
 
-* **learning management system facilitator**
+* **Learning management system facilitator**
      * At this position, I assisted in familiarizing faculty staff with the newly implemented learning management system---Canvas. I worked successfully with staff either individually or in groups to deliver training on how to use the new system.
 
 `03/2014--12/2015`
 _Starpath Project, The University of Auckland_
 
-* **research assistant**
+* **Research assistant**
     * Working first time as a research assistant, under the instruction of Dr. Earl Irving, I needed to submit information retrieval requests to the [e-asttle](http://e-asttle.tki.org.nz/) website first, keep a detailed log of my requests, and download the data the other day. After that, the separate data files needed to be cleaned, amalgamated, coded, and attached to an existing database. This job required great attention to detail, patience, and expertise in using Excel.
 
 `12/2012--12/2015`
 _Centre for the Creative Application of Technology in Education, The University of Auckland_
 
-* **learning technology assistant**
+* **Learning technology assistant**
     * As a learning technology assistant, I would be in the collaborative active learning spaces (CALS) classroom to help teachers set up the classroom, and on call to solve minor technical issues.
 
 `09/2003--07/2012`
