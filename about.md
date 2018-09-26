@@ -11,19 +11,19 @@ I currently mainly work as a project assistant in the [Digital Learning Team (DL
 
 As a project assistant, With an overall aim to improve university teachers' pedagogical use of ICT, my daily job involves the following aspects:
 
-    1. Collaborate with learning designers for designated projects and provide advice;
+    * Collaborate with learning designers for designated projects and provide advice;
 
-    2. Carry out background research with learning designers on relevant projects (e.g., evaluation of collaborative active learning spaces, blended learning, and identification and review of supporting tools);
+    * Carry out background research with learning designers on relevant projects (e.g., evaluation of collaborative active learning spaces, blended learning, and identification and review of supporting tools);
 
-    3. Provide on-site and in-class technical support to DLT staff, academic staff, presenters, mentors, and students for various project-related workshops, classes, and other sessions; and
+    * Provide on-site and in-class technical support to DLT staff, academic staff, presenters, mentors, and students for various project-related workshops, classes, and other sessions;
 
-    4. Deliver project-related professional development support to meet pre-set objectives (e.g., preparation of easy-to-follow training material and organisation of workshops to train teachers how to use the new learning management system--Canvas).
+    * Deliver project-related professional development support to meet pre-set objectives (e.g., preparation of easy-to-follow training material and organisation of workshops to train teachers how to use the new learning management system--Canvas).
 
 I am also a research affiliate of the quantitative data analysis and research unit, Faculty of Education and Social Work, University of Auckland. My research interests include educational technology, technology-enhanced language learning, technology acceptance, and teacher education. My current research project focuses on the potential use of AR/VR in the educational context.
 
 ## Contact Details
 
-  Office :office:: R201, Faculty of Education and Social Work, 74 Epsom Avenue, Epsom, Auckland  
+  Office 💼: R201, Faculty of Education and Social Work, 74 Epsom Avenue, Epsom, Auckland  
   Cellular 📱: 022-194-6686  
   E-mail ✉️: bmei560@aucklanduni.ac.nz  
 
