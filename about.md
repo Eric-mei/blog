@@ -43,25 +43,25 @@ _Henan University_ English __BA__ (_First Class honours_)
 `09/2015--02/2016`
 _Kia Eke Panuku: Building on Success, The University of Auckland_
 
-* **Data analyst** (manager: [Dr. Camilla Highfield](http://www.education.auckland.ac.nz/people/profile/c-highfield))
+* **Data analyst**
     * My role in Kia Eke Panuku involved cleaning and transforming text data for further analysis, and generating standardized analysis reports to give schools feedback. I adopted Excel macro to streamline the whole process.
 
 `09/2015--12/2015`
 _Faculty of Education and Social Work, The University of Auckland_
 
-* **learning management system facilitator** (manager: [Dr. Kirsten Locke](http://www.education.auckland.ac.nz/people/profile/k-locke))
+* **learning management system facilitator**
      * At this position, I assisted in familiarizing faculty staff with the newly implemented learning management system---Canvas. I worked successfully with staff either individually or in groups to deliver training on how to use the new system.
 
 `03/2014--12/2015`
 _Starpath Project, The University of Auckland_
 
-* **research assistant** (manager: [Dr. Earl Irving](http://www.education.auckland.ac.nz/people/e-irving))
+* **research assistant**
     * Working first time as a research assistant, under the instruction of Dr. Earl Irving, I needed to submit information retrieval requests to the [e-asttle](http://e-asttle.tki.org.nz/) website first, keep a detailed log of my requests, and download the data the other day. After that, the separate data files needed to be cleaned, amalgamated, coded, and attached to an existing database. This job required great attention to detail, patience, and expertise in using Excel.
 
 `12/2012--12/2015`
 _Centre for the Creative Application of Technology in Education, The University of Auckland_
 
-* **learning technology assistant** (manager: [Dr. Steve Leichtweis](http://www.education.auckland.ac.nz/people/s-leichtweis))
+* **learning technology assistant**
     * As a learning technology assistant, I would be in the collaborative active learning spaces (CALS) classroom to help teachers set up the classroom, and on call to solve minor technical issues.
 
 `09/2003--07/2012`
@@ -80,15 +80,7 @@ Mei, B. & Brown, G. (2015, July). _Towards an understanding of mainland Chinese 
 
 ## Publication
 
-Mei, B., & Brown, G. T. L. (2017). Conducting online surveys in China. _Social Science Computer Review_, https://doi.org/10.1177/0894439317729340
-
-Mei, B., Brown, G. T. L., & Teo, T. (2018). Toward an understanding of preservice English as a foreign language teachers’ acceptance of computer-assisted language learning 2.0 in the People's Republic of China. _Journal of Educational Computing Research_, https://doi.org/10.1177/0735633117700144
-
-Teo, T., Sang, G., Mei, B., & Hoi, C. K. W. (2018). Investigating pre-service teachers’ acceptance of Web 2.0 technologies in their future teaching: a Chinese perspective. _Interactive Learning Environments_, 0(0), 1–17. https://doi.org/10.1080/10494820.2018.1489290
-
-Yang, S., & Mei, B. (2018). Understanding learners’ use of augmented reality in language learning: insights from a case study. _Journal of Education for Teaching_, 44(4), 511–513. https://doi.org/10.1080/02607476.2018.1450937
-
-Yang, S., Mei, B., & Yue, X. (2018). Mobile Augmented Reality Assisted Chemical Education: Insights from Elements 4D. _Journal of Chemical Education_, 95(6), 1060–1062. https://doi.org/10.1021/acs.jchemed.8b00017
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F1365598%2Fcollections%2FXYC47ZTD%2Fitems%3Fkey%3DXPeILBDiY6SJLW90nV0aqGVs%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
 
 
 ## Student Scholarship
