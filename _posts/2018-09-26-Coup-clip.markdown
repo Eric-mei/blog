@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 
 
-<iframe width="1000" height="800" src="https://docs.google.com/document/d/e/2PACX-1vRxvKWkY41HjqZEYeZo8CaN7YX-JP9GiYKhDF3gCzGPdz1CTAqHzIEF7EsFNE3KcUJ2oal6W6B_Vvlr/pub?embedded=true"></iframe>
+<iframe width="600" height="600" src="https://docs.google.com/document/d/e/2PACX-1vRxvKWkY41HjqZEYeZo8CaN7YX-JP9GiYKhDF3gCzGPdz1CTAqHzIEF7EsFNE3KcUJ2oal6W6B_Vvlr/pub?embedded=true"></iframe>
