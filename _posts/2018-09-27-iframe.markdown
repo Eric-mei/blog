@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "how to add iframe to Jekyll posts"
+date:   2018-09-27 15:57:00 +1200
+categories: jekyll update
+---
+iframe width="560" height="315" src="https://www.youtube.com/embed/G7J5Y9tat3g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
