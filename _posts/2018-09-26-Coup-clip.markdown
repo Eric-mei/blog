@@ -8,4 +8,4 @@ categories: jekyll update
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G7J5Y9tat3g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRxvKWkY41HjqZEYeZo8CaN7YX-JP9GiYKhDF3gCzGPdz1CTAqHzIEF7EsFNE3KcUJ2oal6W6B_Vvlr/pub?embedded=true"></iframe>
+<iframe width="1000" height="800" src="https://docs.google.com/document/d/e/2PACX-1vRxvKWkY41HjqZEYeZo8CaN7YX-JP9GiYKhDF3gCzGPdz1CTAqHzIEF7EsFNE3KcUJ2oal6W6B_Vvlr/pub?embedded=true"></iframe>
