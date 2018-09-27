@@ -117,6 +117,7 @@ Recipient of the Global Scholarship program for research excellence from the Chi
 Copy editor for the journal of _[Language Learning & Technology](http://llt.msu.edu/)_ (SSCI indexed)
 
 ## Publication Reviews
+<<<<<<< HEAD
  *2018✓ Reviewed for Computer  Assisted Language Learning
 
  *2018✓ Reviewed for Computers & Education
@@ -126,6 +127,13 @@ Copy editor for the journal of _[Language Learning & Technology](http://llt.msu.
  *2018✓ Reviewed for Asia-Pacific Education Researcher
 
  *2017✓ Reviewed for Frontiers of Education in China
+=======
+* 2018✓ Reviewed for Computer  Assisted Language Learning
+* 2018✓ Reviewed for Computers & Education
+* 2018✓ Reviewed for Frontiers of Education in China
+* 2018✓ Reviewed for Asia-Pacific Education Researcher
+* 2017✓ Reviewed for Frontiers of Education in China
+>>>>>>> e3f007fba445724894fa4d757079992f118929ae
 
 ## Hobbies
 
