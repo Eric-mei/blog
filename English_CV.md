@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV (English)
+title: CV_English
 permalink: /CV_English/
 ---
 
