@@ -24,7 +24,7 @@ github_username:  Eric-mei
 
 # Build settings
 markdown: kramdown
-remote_theme: broccolini/swiss
+remote_theme: broccolini/athena
 plugins:
   - jekyll-feed
 
