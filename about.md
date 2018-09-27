@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# Bing Mei ![My Logo](/avatar.png =100x100)
+# Bing Mei [My Logo](/avatar.png=100x100)
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9185-7509" href="https://orcid.org/0000-0001-9185-7509" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-9185-7509</a></div>
 
