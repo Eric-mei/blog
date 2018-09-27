@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: CV (English)
+permalink: /CV_English/
 ---
 
 # Bing Mei
