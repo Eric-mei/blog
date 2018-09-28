@@ -24,10 +24,10 @@ As a project assistant, With an overall aim to improve university teachers' peda
 
 I am also a research affiliate of the quantitative data analysis and research unit, Faculty of Education and Social Work, University of Auckland. My research interests include educational technology, technology-enhanced language learning, technology acceptance, and teacher education. My current research project focuses on the potential use of AR/VR in the educational context.
 
-## Contact Details
+## 📇 Contact Details
 
-  Office 💼: R201, Faculty of Education and Social Work, 74 Epsom Avenue, Epsom, Auckland  
-  E-mail ✉️: bmei560@aucklanduni.ac.nz  
+  Office： R201, Faculty of Education and Social Work, 74 Epsom Avenue, Epsom, Auckland  
+  E-mail: bmei560@aucklanduni.ac.nz  
 
 
 ## Education
