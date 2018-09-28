@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV_Chinese
+title: 📌 CV_Chinese
 permalink: /CV_Chinese/
 ---
 
