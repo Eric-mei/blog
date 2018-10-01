@@ -11,5 +11,5 @@ categories: jekyll update
 
 Some confuse bathos with `pathos`.” The term was used by Alexander Pope to explain the blunders committed inadvertently by unskilled writers or poets. However, later on, comic writers used it intentionally to create humorous effects. The most commonly used bathos involves a sequence of items that descend from worthiness to silliness.
 
-<script src="//www.powr.io/powr.js?external-type=html"></script>
- <div class="powr-countdown-timer" id="dfdd2169_1538360699"></div>
+
+ <iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:0;width:450px;height:210px;"src="https://www.clocklink.com/html5embed.php?clock=048&timezone=ACST&color=red&size=450&Title=&Message=&Target=&From=2018,1,1,0,0,0&Color=red"></iframe>
