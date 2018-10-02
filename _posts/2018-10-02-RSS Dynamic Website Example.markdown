@@ -18,7 +18,3 @@ Example of [RSS 2 HTML](https://rss.bloople.net/)
 
 Example of [Feedroll](https://feedroll.com/)
 <script language="JavaScript" src="http://feedroll.com/rssviewer/feed2js.php?src=https%3A%2F%2Ffeeds.bbci.co.uk%2Fnews%2Fworld%2Frss.xml&chan=y&desc=1&utf=y"  charset="UTF-8" type="text/javascript"></script>
-
-<noscript>
-<a href="http://feedroll.com/rssviewer/feed2js.php?src=https%3A%2F%2Ffeeds.bbci.co.uk%2Fnews%2Fworld%2Frss.xml&chan=y&desc=1&utf=y&html=y">View RSS feed</a>
-</noscript>
