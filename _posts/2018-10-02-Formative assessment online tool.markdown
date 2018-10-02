@@ -20,7 +20,7 @@ Free gamified quizzes for every subject to play in class and at home. Pick an ex
 [Quizlet](https://quizlet.com/en-gb)
 
 
-[An article comparing these four tools] (http://ditchthattextbook.com/2016/04/21/game-show-classroom-comparing-kahoot-quizizz-quizlet-live-and-quizalize/)
+[An article comparing these four tools](http://ditchthattextbook.com/2016/04/21/game-show-classroom-comparing-kahoot-quizizz-quizlet-live-and-quizalize/)
 
 
 # Noisli
