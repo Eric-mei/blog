@@ -21,4 +21,4 @@ https://airlinc.io/
 This app enables users to turn your iPhone into a wireless mic, but not sure whether the audio can be synced with video
 
 
-<script src="//rss.bloople.net/?url=http%3A%2F%2Fjournals.sagepub.com%2Faction%2FshowFeed%3Fui%3D0%26mi%3Dehikzz%26ai%3D2b4%26jc%3Dalha%26type%3Detoc%26feed%3Drss&showtitle=false&type=js"></scrip
+<iframe width="100%" height="750" frameborder="0" class="rssdog" src="https://www.rssdog.com/index.php?url=https%3A%2F%2Flink.springer.com%2Fsearch.rss%3Ffacet-content-type%3DArticle%26facet-journal-id%3D11192%26channel-name%3DScientometrics&mode=html&showonly=&maxitems=5&showdescs=1&desctrim=0&descmax=0&tabwidth=100%25&linktarget=_blank&textsize=inherit&bordercol=%23d4d0c8&headbgcol=%23999999&headtxtcol=%23ffffff&titlebgcol=%23f1eded&titletxtcol=%23000000&itembgcol=%23ffffff&itemtxtcol=%23000000&ctl=0"></iframe>
