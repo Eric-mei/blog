@@ -21,3 +21,5 @@ I am currently trying to save the jekyll web structure on my dropbox so that I c
 During my quest, I found Atom (https://atom.io/) is really handy for me to work on my first jekyll project. Like it till now.
 
 Wish me good luck!
+
+<a href="https://twitter.com/intent/tweet?button_hashtag=LearningAnalytics&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #LearningAnalytics</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
