@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reference Checking Made Easy"
+title:  "Reference checking made easy"
 date:   2018-10-02 13:32:49 +1200
 categories: jekyll update
 ---
@@ -23,4 +23,4 @@ Recite is optimised for those who use APA or Harvard referencing styles.
 Recite may be of most use to those who don't use reference management software like Endnote or RefWorks. But even if you do use them, try Recite and let us know what you find.
 
 
-Another similar tool is called penelope (https://www.penelope.ai/)
+Another similar tool is called [penelope](https://www.penelope.ai/)
