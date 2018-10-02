@@ -14,3 +14,11 @@ Example of [RSS DOG](https://www.rssdog.com/)
 
 Example of [RSS 2 HTML](https://rss.bloople.net/)
 <script src="//rss.bloople.net/?url=https%3A%2F%2Flink.springer.com%2Fsearch.rss%3Ffacet-content-type%3DArticle%26facet-journal-id%3D11192%26channel-name%3DScientometrics&showtitle=false&type=js"></script>
+
+
+Example of [Feedroll](https://feedroll.com/)
+<script language="JavaScript" src="http://feedroll.com/rssviewer/feed2js.php?src=https%3A%2F%2Ffeeds.bbci.co.uk%2Fnews%2Fworld%2Frss.xml&chan=y&desc=1&utf=y"  charset="UTF-8" type="text/javascript"></script>
+
+<noscript>
+<a href="http://feedroll.com/rssviewer/feed2js.php?src=https%3A%2F%2Ffeeds.bbci.co.uk%2Fnews%2Fworld%2Frss.xml&chan=y&desc=1&utf=y&html=y">View RSS feed</a>
+</noscript>
