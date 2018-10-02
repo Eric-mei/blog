@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Brie and Blue Cheese"
-date:   2018-10-01 15:32:49 +1200
+title:  "Possible solution to turn iPhone into wireless mic"
+date:   2018-10-02 15:32:49 +1200
 categories: jekyll update
 ---
 # Possible solution to turn iPhone into wireless mic

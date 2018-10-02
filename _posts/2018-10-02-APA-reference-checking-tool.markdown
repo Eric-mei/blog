@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reference Checking Made Easy"
-date:   2018-10-01 15:32:49 +1200
+date:   2018-10-02 13:32:49 +1200
 categories: jekyll update
 ---
 # Reciteworks.com
