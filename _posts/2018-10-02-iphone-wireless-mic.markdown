@@ -19,3 +19,6 @@ According to this source  that MoviePro uniquely supports Bluetooth microphones 
 
 https://airlinc.io/
 This app enables users to turn your iPhone into a wireless mic, but not sure whether the audio can be synced with video
+
+
+<script src="//rss.bloople.net/?url=http%3A%2F%2Fjournals.sagepub.com%2Faction%2FshowFeed%3Fui%3D0%26mi%3Dehikzz%26ai%3D2b4%26jc%3Dalha%26type%3Detoc%26feed%3Drss&showtitle=false&type=js"></scrip
