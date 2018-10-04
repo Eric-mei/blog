@@ -118,16 +118,9 @@ Copy editor for the journal of _[Language Learning & Technology](http://llt.msu.
 
 ## Publication Reviews
 
- * 2018✓ Reviewed for Computer  Assisted Language Learning
-
- * 2018✓ Reviewed for Computers & Education
-
- * 2018✓ Reviewed for Frontiers of Education in China
-
- * 2018✓ Reviewed for Asia-Pacific Education Researcher
-
- * 2017✓ Reviewed for Frontiers of Education in China
-
+<!-- start Publons.com widget -->
+<iframe src="https://publons.com/author/1474000/widget/embed/?width=640&height=460" width="640" height="460" style="border: solid 1px #ddd;"></iframe>
+<!-- end Publons.com widget -->
 
 ## Hobbies
 
