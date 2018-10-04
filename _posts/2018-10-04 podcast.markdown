@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Podcast solution"
+date:   2018-10-02 15:32:49 +1200
+categories: jekyll update
+---
+# Possible podcast solution
+
+Soundcloud.com
