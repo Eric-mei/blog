@@ -4,7 +4,7 @@ title: 📌 中文简历
 permalink: /CV_Chinese/
 ---
 
-# 姓名：梅冰 🇨🇳♂️
+# 姓名：梅冰 🇨🇳♂️<span id="heart31507">♥</span>
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9185-7509" href="https://orcid.org/0000-0001-9185-7509" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-9185-7509</a></div>
 
@@ -92,17 +92,11 @@ Mei, B. & Brown, G. (2015, July). _Towards an understanding of mainland Chinese 
 
 Copy editor for the journal of _[Language Learning & Technology](http://llt.msu.edu/)_ (SSCI indexed)
 
-## 匿名评审
+## 英文期刊匿名评审
 
- *2018✓ Reviewed for Computer  Assisted Language Learning
-
- *2018✓ Reviewed for Computers & Education
-
- *2018✓ Reviewed for Frontiers of Education in China
-
- *2018✓ Reviewed for Asia-Pacific Education Researcher
-
- *2017✓ Reviewed for Frontiers of Education in China
+<!-- start Publons.com widget -->
+<iframe src="https://publons.com/author/1474000/widget/embed/?width=640&height=460" width="640" height="460" style="border: solid 1px #ddd;"></iframe>
+<!-- end Publons.com widget -->
 
 
 ## Hobbies
