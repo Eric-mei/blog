@@ -119,7 +119,7 @@ Copy editor for the journal of _[Language Learning & Technology](http://llt.msu.
 ## Publication Reviews
 
 <!-- start Publons.com widget -->
-<iframe src="https://publons.com/author/1474000/widget/embed/?width=640&height=460" width="640" height="460" style="border: solid 1px #ddd;"></iframe>
+<iframe src="https://publons.com/author/1474000/widget/embed/?width=640&height=460" width="700" height="500" style="border: solid 1px #ddd;"></iframe>
 <!-- end Publons.com widget -->
 
 ## Hobbies
