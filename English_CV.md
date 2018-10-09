@@ -127,6 +127,3 @@ Copy editor for the journal of _[Language Learning & Technology](http://llt.msu.
   + Tennis
   + Running
   + Teaching kids coding (e.g, [Scratch](https://scratch.mit.edu/),  [Lightbot](https://lightbot.com/), and [Lego Ev3](http://www.lego.com/en-us/mindstorms))
-
-# The Department
-<iframe src=https://www.researchgate.net/plugins/department?stats=true&faces=true&publications=true&height=600&width=700&theme=light&type=department&installationId=5bbbf6b3b93ecd8ca371f766 />
