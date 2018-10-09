@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "html5up"
+date:   2018-10-02 15:32:49 +1200
+categories: jekyll update
+---
+# Another possible blog solution
+
+html5up
