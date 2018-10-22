@@ -13,4 +13,4 @@ https://www.edutopia.org/article/reluctant-adopters-and-technology-initiatives
 
 # online discussion facilitation tool
 
-Kialo
+Kialo online discussion platform
