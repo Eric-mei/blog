@@ -73,6 +73,7 @@ _School of Foreign Languages, Henan University_
     * As an EFL lecturer, I taught courses of intensive reading, extensive reading, and English grammar.  
 
 ## Presentation
+Mei, B (2018, October). _Survey research in PRC: Challenges, solutions, & techniques_. Presentation to China Research Symposium With Professor Gavin T. L. Brown, Auckland.
 
 Mei, B (2017, June). _Preparing pre-service EFL teachers for computer aided assessment: A mainland Chinese perspective_. Paper presented at the 4th International Conference---Asian Association for Language Assessment, Taipei.
 
