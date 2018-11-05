@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Ωnyx"
+date:   2018-11-05 15:32:49 +1200
+categories: jekyll update
+---
+# Ωnyx
+
+Onyx: A graphical interface for Structural Equation Modeling
+
+http://onyx.brandmaier.de/
