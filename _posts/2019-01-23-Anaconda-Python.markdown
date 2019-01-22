@@ -2,7 +2,7 @@
 layout: post
 title:  "Anaconda"
 date:   2018-01-23 15:32:49 +1200
-categories: Learning Python
+categories: jekyll update
 ---
 Python目前有两个主版本并存，这很让人苦恼。
 
