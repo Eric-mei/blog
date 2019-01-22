@@ -17,6 +17,11 @@ Python目前有两个主版本并存，这很让人苦恼。
 
 '''conda create -n tfpy3 python=3'''
 
+# 创建一个名为python34的环境，指定Python版本是3.4（不用管是3.4.x，conda会为我们自动寻找3.4.x中的最新版本）
+
+'''conda create --name python34 python=3.4'''
+
+
 
 呼唤创建的虚拟环境
 
