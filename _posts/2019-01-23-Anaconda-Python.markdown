@@ -15,4 +15,4 @@ Python目前有两个主版本并存，这很让人苦恼。
 
 进入终端环境，使用Anaconda的环境创建命令，一行代码就可以创建成功。
 
-conda create -n tfpy3 python=3
+'''conda create -n tfpy3 python=3'''
