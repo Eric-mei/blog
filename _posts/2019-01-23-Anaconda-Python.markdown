@@ -9,7 +9,7 @@ Python目前有两个主版本并存，这很让人苦恼。
 虽然Python 3有许多优于Python 2的特性，但是Python 2的生态系统更为完善，支持的包更多。因为生态系统内部的依赖关系，许多软件包的运行说明会直接指定“仅适用于Python 2.7版本”。
 所以，你会在不同的应用场景下切换这两种Python版本。
 
-解决方法，安装虚拟环境。
+# 解决方法，安装虚拟环境。
 
 在虚拟环境里，各种软件包的版本，都由你来指定。它们和系统默认Python环境是相互隔离的，因此互不干扰。
 
@@ -24,6 +24,7 @@ Python目前有两个主版本并存，这很让人苦恼。
 `source activate python34`
 
 
+
 3. 激活后，会发现terminal输入的地方多了python34的字样，实际上，此时系统做的事情就是把默认2.7环境从PATH中去除，再把3.4对应的命令加入PATH
 此时，输入
 
@@ -32,6 +33,16 @@ Python目前有两个主版本并存，这很让人苦恼。
 4. 用户安装的不同python环境都会被放在目录~/anaconda/envs下，可以在命令中运行
 `conda info -e`
 查看已安装的环境，当前被激活的环境会显示有一个星号或者括号。
+
+5. 在当前环境运行下列命令，安装插件，在jupyter notebook中加入新设环境
+
+`conda install nb_conda`
+
+6. 然后在当前环境打开jupyter notebook
+
+`jupyter notebook`
+
+
 
 # Conda的包管理
 
@@ -42,3 +53,18 @@ Conda的包管理就比较好理解了，这部分功能与pip类似。
 1. 安装scipy
 
 conda install scipy
+
+2. 卸载scipy
+conda remove scipy
+
+# 在当前环境下安装anaconda包集合
+
+conda install anaconda
+
+# 更新anaconda
+
+conda update anaconda
+
+# 更新python
+
+conda update python
