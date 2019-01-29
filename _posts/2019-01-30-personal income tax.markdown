@@ -19,10 +19,6 @@ categories: jekyll update
 [get the excel file](https://eric-mei.github.io/blog/image/income_tax.xlsx)
 
 
-
-
-
-
 # 年终奖与月薪
 
 简单起见，可以把个人收入分为月薪和年终奖，并且假设月薪全部是工资所得，然后计算个人所得税。
