@@ -13,7 +13,7 @@ categories: jekyll update
 目前新个税采用累计预扣的方法，而非按月缴纳的方法(这样可以有效避免因某一月份的收入突然增加而导致的税收增加)。
 
 例如在新税制下，如果第一个月的应税收入为15000（扣除a.五险一金; b.免税收入5000; c.专项指出），那么税率应为3%，因为累积薪金收入小于36000.如下图所示：
-![income_tax](https://eric-mei.github.io/blog/image/annual.png)
+![income_tax](https://eric-mei.github.io/blog/image/annual1.png)
 
 此外可以下载此excel表格进行推算：
 [get the excel file](https://eric-mei.github.io/blog/image/income_tax.xlsx)
