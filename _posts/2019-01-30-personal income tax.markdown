@@ -15,7 +15,8 @@ categories: jekyll update
 例如：在新税制下，如果每个月的应税收入固定为15000元（20000元-5000元），那么按月征收与按年征收的总数不会发生变化，每月应缴税额会发生变化，具体如下图所示：
 ![income_tax](https://eric-mei.github.io/blog/image/example2.png)
 
-
+如果在这一年的第二个月发送奖励30000元，那么当月月薪税率会发生变化，从20%扣除1410变为30%扣除2660，于此同时按年收入征收则不受这一变化的影响。
+![income_tax](https://eric-mei.github.io/blog/image/example3.png)
 
 
 
