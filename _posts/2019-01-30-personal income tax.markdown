@@ -12,7 +12,12 @@ categories: jekyll update
 
 ![income_tax](https://eric-mei.github.io/blog/image/income_tax_rate.png)
 
+
+
+
 目前新个税采用累计预扣的方法，而非按月缴纳的方法(这样可以有效避免因某一月份的收入突然增加而导致的税收增加)。具体示例参考此文件[get the excel file](https://eric-mei.github.io/blog/image/example1.xlsx)
+![income_tax](https://eric-mei.github.io/blog/image/annual1.png)
+
 
 例如：在新税制下，如果每个月的应税收入固定为15000元（20000元-5000元），那么按月征收与按年征收的总数不会发生变化，每月应缴税额会发生变化，具体如下图所示：
 ![income_tax](https://eric-mei.github.io/blog/image/example2.png)
@@ -44,7 +49,7 @@ categories: jekyll update
 ![income_tax](https://eric-mei.github.io/blog/image/example4.png)
 从上表中可以看出，在每一个税率升档的临界点，都会出现个税的跳跃式上升和税后收入的跳跃式下降。而且，年终奖收入越高，在临界点时收入的下降越明显。在最高的年终奖96万的临界点，如果多发一块钱，会造成税后收入降低8万8000元！
 
-三.如何分配月薪和年终奖
+# 如何分配月薪和年终奖
 
 我们假设小王同学是公司的业务骨干，老板给小王开出了40万的年薪，并且允许小王自由调配这40万在月薪和年终奖之间的分配比例。
 
