@@ -14,3 +14,6 @@ categories: jekyll update
 
 
 https://pdfs.semanticscholar.org/2690/6e211215ce6ff65b2351df806e364ef27bcb.pdf
+
+
+https://www.airvisual.com/air-quality-map
