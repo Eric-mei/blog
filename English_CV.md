@@ -74,7 +74,7 @@ _School of Foreign Languages, Henan University_
 
 ## Presentation
 
-Ellis, D., Heap R., May, L., Mei, B., Coombes, M., Denton, J., Durham, R., Plusje, Y., Rata, N., Thornley,J., & Tickner, S. (2018, November). _Online course design: The Rapid Development Studio_. Poster session presented at Tertiary Education Research New Zealand 2018 Conference, Wellington.
+Ellis, D., Heap R., May, L., Mei, B., Coombes, M., Denton, J., Durham, R., Plusje, Y., Rata, N., Thornley,J., & Tickner, S. (2018, November). _Online course design: The rapid development studio_. Poster session presented at Tertiary Education Research New Zealand(TERNZ) 2018 Conference, Wellington.
 
 Mei, B. (2018, October). _Survey research in PRC: Challenges, solutions, & techniques_. Presentation to China Research Symposium With Professor Gavin T. L. Brown, Auckland.
 
