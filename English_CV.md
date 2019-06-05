@@ -73,18 +73,12 @@ _School of Foreign Languages, Henan University_
     * As an EFL lecturer, I taught courses of intensive reading, extensive reading, and English grammar.  
 
 ## Presentation
-<<<<<<< HEAD
 
 Ellis, D., Heap R., May, L., Mei, B., Coombes, M., Denton, J., Durham, R., Plusje, Y., Rata, N., Thornley,J., & Tickner, S. (2018, November). _Online course design: The Rapid Development Studio_. Poster session presented at Tertiary Education Research New Zealand 2018 Conference, Wellington.
 
 Mei, B. (2018, October). _Survey research in PRC: Challenges, solutions, & techniques_. Presentation to China Research Symposium With Professor Gavin T. L. Brown, Auckland.
 
 Mei, B. (2017, June). _Preparing pre-service EFL teachers for computer aided assessment: A mainland Chinese perspective_. Paper presented at the 4th International Conference---Asian Association for Language Assessment, Taipei.
-=======
-Mei, B (2018, October). _Survey research in PRC: Challenges, solutions, & techniques_. Presentation to China Research Symposium With Professor Gavin T. L. Brown, Auckland.
-
-Mei, B (2017, June). _Preparing pre-service EFL teachers for computer aided assessment: A mainland Chinese perspective_. Paper presented at the 4th International Conference---Asian Association for Language Assessment, Taipei.
->>>>>>> parent of d207990... E
 
 Mei, B. & Brown, G. (2015, May). _Understanding mainland Chinese pre-service EFL teachers' adoption of innovative technology enhanced assessment approaches_. Poster session presented at the International Conference---Assessment for Learning in Higher Education, Hong Kong.
 
