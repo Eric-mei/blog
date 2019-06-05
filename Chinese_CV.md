@@ -80,7 +80,7 @@ Mei, B. & Brown, G. (2015, July). _Towards an understanding of mainland Chinese 
     * R
     * RStudio
     * Access
-    * Foxpro
+
 
   * __了解__
     * SAS
@@ -97,10 +97,3 @@ Copy editor for the journal of _[Language Learning & Technology](http://llt.msu.
 <!-- start Publons.com widget -->
 <iframe src="https://publons.com/author/1474000/widget/embed/?width=640&height=460" width="700" height="500" style="border: solid 1px #ddd;"></iframe>
 <!-- end Publons.com widget -->
-
-
-## Hobbies
-
-  + Tennis
-  + Running
-  + Teaching kids coding (e.g, [Scratch](https://scratch.mit.edu/),  [Lightbot](https://lightbot.com/), and [Lego Ev3](http://www.lego.com/en-us/mindstorms))
