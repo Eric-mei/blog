@@ -7,3 +7,7 @@ categories: jekyll update
 The tool of Answergarden can be used to create Wordle-like visulisation.
 
 Magic Square  in excel
+
+
+
+ tlk.io chat rooms

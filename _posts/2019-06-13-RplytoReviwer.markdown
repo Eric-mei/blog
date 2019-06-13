@@ -36,3 +36,6 @@ Response disagreeing with the reviewer: “We agree with the reviewer that a sim
 
 
 Note that in both comments (agreeing and disagreeing) the author is polite and shows respect for the reviewer’s opinion. Also, in both circumstances the author makes a change to the manuscript that addresses the reviewer’s question.
+
+
+https://www.springer.com/gp/authors-editors/authorandreviewertutorials/writinginenglish
