@@ -4,6 +4,10 @@ title:  "Reply to Reviewer"
 date:   2019-06-13 15:32:49 +1200
 categories: jekyll update
 ---
+
+<iframe height=498 width=510 src='http://player.youku.com/embed/XODk5ODkzMDU2' frameborder=0 'allowfullscreen'></iframe>
+
+
 Revising and responding
 Once you manuscript has come back from reviewers you may be given the opportunity to revise it in accordance with the reviewer comments. You will usually receive a letter from the editor who handled your manuscript outlining the changes they would like you to make and links to the reviewer reports. This letter usually contains information on how to return your revised manuscript including instructions on how to highlight the changes made and when you need to return the revised version.
 
