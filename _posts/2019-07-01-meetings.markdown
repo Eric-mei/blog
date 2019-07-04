@@ -14,8 +14,10 @@ categories: jekyll update
   </iframe>
 </div>
 
+<iframe class="embed_iframe" src="http://cloud.insta360.com/post/1252e9b46799b4f19c5e5f513e30949a?e=true" frameborder="0" width="100%" height="100%" scrolling="no" style="border:none;overflow-x:hidden;"></iframe>
 
-国内的会议纷繁复杂，有大会、小会、年会、研讨会、协商会、总结会、表彰会等等。看看英文，就没有用“会”这样的词根，就认得个“meeting”，乍看去眼花缭乱，连投稿都痛苦。conference、workshop、seminar、congress等等，都啥名啊，百度、论坛皆无正解，中文译名也乱七八糟，翻译为会议、研讨会了事。workshop最遭殃，有人翻译为会议，有人翻译为子会议（因为常常在conference中有若干workshop），很多人翻译为“工作坊”，港台也多用此翻译，国内跟风地更多。怎么能翻译为“工作坊”呢？“坊”是“作坊”的意思，用在“科研用的实验室、办公室”上面更合适。workshop往往是不同的研究机构的人员在一起进行的小规模研讨啊。好啦，现在来为这几个英文会议的名词溯源正名。
+
+内的会议纷繁复杂，有大会、小会、年会、研讨会、协商会、总结会、表彰会等等。看看英文，就没有用“会”这样的词根，就认得个“meeting”，乍看去眼花缭乱，连投稿都痛苦。conference、workshop、seminar、congress等等，都啥名啊，百度、论坛皆无正解，中文译名也乱七八糟，翻译为会议、研讨会了事。workshop最遭殃，有人翻译为会议，有人翻译为子会议（因为常常在conference中有若干workshop），很多人翻译为“工作坊”，港台也多用此翻译，国内跟风地更多。怎么能翻译为“工作坊”呢？“坊”是“作坊”的意思，用在“科研用的实验室、办公室”上面更合适。workshop往往是不同的研究机构的人员在一起进行的小规模研讨啊。好啦，现在来为这几个英文会议的名词溯源正名。
 
 （作者：李斌 版权所有 转载请联系libin.njnu@gmail.com)
 
