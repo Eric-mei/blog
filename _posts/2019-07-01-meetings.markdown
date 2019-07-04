@@ -1,0 +1,110 @@
+---
+layout: post
+title:  "各种会议"
+date:   2019-07-01 15:32:49 +1200
+categories: jekyll update
+---
+
+<div class="glitch-embed-wrap" style="height: 486px; width: 100%;">
+  <iframe
+    allow="geolocation; microphone; camera; midi; encrypted-media"
+    src="https://glitch.com/embed/#!/embed/starter-aframe-deep-space?previewSize=100&previewFirst=true&sidebarCollapsed=true"
+    alt="starter-aframe-deep-space on Glitch"
+    style="height: 100%; width: 100%; border: 0;">
+  </iframe>
+</div>
+
+
+国内的会议纷繁复杂，有大会、小会、年会、研讨会、协商会、总结会、表彰会等等。看看英文，就没有用“会”这样的词根，就认得个“meeting”，乍看去眼花缭乱，连投稿都痛苦。conference、workshop、seminar、congress等等，都啥名啊，百度、论坛皆无正解，中文译名也乱七八糟，翻译为会议、研讨会了事。workshop最遭殃，有人翻译为会议，有人翻译为子会议（因为常常在conference中有若干workshop），很多人翻译为“工作坊”，港台也多用此翻译，国内跟风地更多。怎么能翻译为“工作坊”呢？“坊”是“作坊”的意思，用在“科研用的实验室、办公室”上面更合适。workshop往往是不同的研究机构的人员在一起进行的小规模研讨啊。好啦，现在来为这几个英文会议的名词溯源正名。
+
+（作者：李斌 版权所有 转载请联系libin.njnu@gmail.com)
+
+英文单词多来自于古英语、古高德语、拉丁语，有一部很好的英文词源在线词典http://www.etymonline.com（若无特别说明，本文中的单词释义均取自其中），一查真相大白：
+
+workshop (n.)
+   1580s, from work (n.) + shop (n.). Meaning "gathering for study, etc.," is from 1937.
+
+原来，workshop是集合起来研究的意思，再看看“shop”，其意就是小商店之意，到20世纪初美国有了教授专业技术的教室的称呼。用work+shop上看，应该是“work工作+shop展示交流的小店”的意义组合。那么翻译为“工作show”、“工作展”、“研究展”、“工作交流会”更为合适。所以在workshop上大家并不开roundtable（圆桌会议），而是由主讲人做presentation（演讲）介绍自己论文的研究进展心得。
+
+
+
+google词典把workshop解释为“（1）a room or building in which goods are manufactured or repaired （2）a meeting at which a group of people engage in intensive discussion and activity on a particular subject or project”第一个意思是制作维修商品的房间，也是港台如此翻译的原因，但room不是一般的room，有商店性质哦，再看shop的词源：
+
+shop (n.)
+   c.1300, "booth or shed for trade or work," perhaps from Old English scoppa, a rare word of uncertain meaning, apparently related to scypen "cowshed," from Proto-Germanic *skoppan "small additional structure" (cf. Old High German scopf "building without walls, porch," German dialectal Scopf "porch, cart-shed, barn," German Schuppen "a shed"), from root *skupp-. Or the Middle English word was acquired from Old French eschoppe "booth, stall" (Modern French échoppe), which is a Germanic loan-word from the same root.    Meaning "building or room set aside for sale of merchandise" is from mid-14c. Meaning "schoolroom equipped for teaching vocational arts" is from 1914, American English. Sense of "matters pertaining to one's trade" is from 1814 (as in talk shop (v.), 1860).
+
+
+
+conference (n.) 一般翻译为“会议”。来自于拉丁语，意思是confer的行为，而confer的意思是给与、谈论、比较，引申为推理、商谈等。所以这种会议应该是比较正式的讨论会议。
+   1550s, "act of conferring," from Middle French conférence (15c.), from Medieval Latin conferentia, from Latin conferens, present participle of conferre (see confer). Meaning "formal meeting for consultation" is from 1580s.
+
+confer (v.)
+   1530s, from Middle French conférer (14c.) "to give, converse, compare," from Latin conferre "to bring together," figuratively "to compare; consult, deliberate, talk over," from com- "together" (see com-) + ferre "to bear" (see infer). Sense of "taking counsel" led to conference. The meaning "compare" (common 1530-1650) is largely obsolete, but the abbreviation cf. still is used in this sense. Related: Conferred; conferring.
+
+
+
+congress (n.) 源自15世纪的“与会者的人员”，且这些人员一般是武装人员来开会，后来演变为代表会议乃至议会，所以其政治性高、规模大，学术会议用的少。
+   c.1400, "body of attendants; also "meeting of armed forces" (mid-15c.); main modern sense of "coming together of people, a meeting" is from 1520s; from Latin congressus "a friendly meeting; a hostile encounter," past participle of congredi "meet with, fight with," from com- "together" (see com-) + gradi "to walk," from gradus "a step" (see grade (n.)).  Sense of "meeting of delegates" is first recorded 1670s. Meaning "sexual union" is from 1580s. Used in reference to the national legislative body of the American states since 1775 (though since 1765 in America as a name for proposed bodies). Congress of Vienna met Nov. 1, 1814, to June 8, 1815, and redrew the map of Europe with an eye to creating a balance of powers after the disruptions of Napoleon.
+
+
+
+
+seminar (n.) 一般翻译为“研讨会”，源自德国19世纪的“由一位教授带领的学生研究组”，所以在今天也多指培训性质的研讨会。
+   1887, "special group-study class for advanced students," from German Seminar "group of students working with a professor," from Latin seminarium "breeding ground, plant nursery" (see seminary). Sense of "meeting for discussion of a subject" first recorded 1944.
+
+
+
+colloquim一般翻译为座谈会还是不错的，该词源于拉丁文“colloquium对话”。
+colloquium (n.)
+   early 17c., "conversation, dialogue," from Latin colloquium "conversation" (see colloquy). Also as a legal term; meaning "meeting, assembly, conference, seminar" is attested from 1844.
+
+
+
+symposium (n.)这个单词一般也翻译为“座谈会、研讨会”，貌似有误。拉丁文、希腊文原意是知识阶层的酒会，还经常后加一个晚宴。到了18世纪，用来指称关于某个主题的会议。这样子看，有点像中国的研讨性质的茶话会，呵呵。
+   1580s, "account of a gathering or party," from Latin symposium "drinking party, symposium," from Greek symposion "drinking party, convivial gathering of the educated" (related to sympotes "drinking companion"), from assimilated form of syn- "together" (see syn-) + posis "a drinking," from a stem of Aeolic ponen "to drink," cognate with Latin potare "to drink" (see potion).
+The symposium usually followed a dinner, for the Greeks did not drink at meals. Its enjoyment was heightened by intellectual or agreeable conversation, by the introduction of music or dancers, and by other amusements. [Century Dictionary]
+The sense of "a meeting on some subject" is from 1784. Reflecting the Greek fondness for mixing wine and intellectual discussion, the modern sense is especially from the word being used as a title for one of Plato's dialogues. Greek plural is symposia, and the leader of one is a symposiarch (c.1600 in English). Related: Symposiac (adj.); symposial.
+
+
+
+meeting (n.) 大家都认得的单词，意义也简单通用，原意就是大家聚集讨论，也就未必是学术会议咯。
+   "action of coming together," Old English gemeting, verbal noun from meet (v.). Meaning "gathering of people for discussion, etc." is from 1510s. In 17c., it was applied generally to worship assemblies of nonconformists, but this now is retained mostly by Quakers.
+
+
+
+最后一个词“会议”，不查不知道，此词居然是借自日本，有日文词典为证：
+
+会議（かいぎ、英: meeting：ミーティング）は、関係者が集まって相談をし、意思決定をすることである。またはその集合のこと。会議を行うために設けられた部屋を会議室という。
+
+
+
+查了一圈，很感慨，学术确实是西方舶来品，连会议的用词都是如此，我们本土的会议名称都哪儿去了？！在古代大约只有文人的把酒会诗，而没有几次学术性聚会（据笔者所知，也就那个四声八病的8人聚会）。补课啊补课，今天也算是补了一课。
+
+会议种类
+普通译名
+侧重点
+改进译名
+congress
+国会
+国会类型的大型会议
+
+confenrence
+大会
+正式的讨论会议
+
+workshop
+讨论会、工作坊
+研究工作的展示
+研究展示会
+seminar
+研讨会
+教授领头的学生小型会议
+研习班
+colloquim
+座谈会
+以讨论为主
+研讨会
+symposium
+座谈会
+酒会性质
+不好翻译
