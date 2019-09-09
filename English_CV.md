@@ -74,9 +74,13 @@ _School of Foreign Languages, Henan University_
 
 ## Presentation
 
+May, L., & Mei, B. (2019, August). _The construction of Chinese histories through heterotopic game spaces_. Paper presented at Chinese Digital Game Research Conference 2019, Beijing.
+
+May, L., Mei, B., & Heap R.(2019, July). _Rapid prototyping as an approach to designing online learning_. Paper presented at HERDSA Conference 2019: Next Generation, Higher Education: Challenges, Changes and Opportunities, Auckland.
+
 Ellis, D., Heap R., May, L., Mei, B., Coombes, M., Denton, J., Durham, R., Plusje, Y., Rata, N., Thornley,J., & Tickner, S. (2018, November). _Online course design: The rapid development studio_. Poster session presented at Tertiary Education Research New Zealand(TERNZ) 2018 Conference, Wellington.
 
-Mei, B. (2018, October). _Survey research in PRC: Challenges, solutions, & techniques_. Presentation to China Research Symposium With Professor Gavin T. L. Brown, Auckland.
+Mei, B. (2018, October). _Survey research in PRC: Challenges, solutions, & techniques_. Paper presented at China Research Symposium With Professor Gavin T. L. Brown, Auckland.
 
 Mei, B. (2017, June). _Preparing pre-service EFL teachers for computer aided assessment: A mainland Chinese perspective_. Paper presented at the 4th International Conference---Asian Association for Language Assessment, Taipei.
 
