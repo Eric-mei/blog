@@ -101,7 +101,7 @@ Recipient of the Global Scholarship program for research excellence from the Chi
 ## Technical Skills
 
   * __Proficient Level__
-    * SP
+    * SPSS
     + AMOS
     * Excel (VBA programming and Macro development)
     * Word
